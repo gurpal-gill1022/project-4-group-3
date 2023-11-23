@@ -29,7 +29,6 @@ Sources Used as References in our codes:
 2. Machine Learning Folder - https://www.statology.org/valueerror-unknown-label-type-continuous/ - used in Random Forest Optimized Notebook
  
 
-
 ## Data Import and cleaning
 This section aims to take the many data sources, and clean and filter the data to make it easier to read and code around. 
 As well, as filtering the data focusing on the relevant data that the group can use.
@@ -42,7 +41,11 @@ The steps that were used for this part were:
 5. Taking the necessary columns to make one final CVS output.
 
    These steps were done with the TX_lat_long.CSV, location.CSV, price.CSV,room.CSV making the data easier to make a SQL database to read the data from. 
+
+
 ## SQL Database
+After the datasets were cleaned, we leveraged SQL database to store the datasets. This was done by writing a query tool to create tables (room, price, and locations), and importing each dataset to its corresponding table. The diagram below shows the relationship between each table.
+![image](https://github.com/gurpal-gill1022/project-4-group-3/assets/130923014/2159701e-b713-4604-8306-ee008e6ee7ba)
 
 ## AWS
 The purpose of the AWS (Amazon Web Services) section was a place to hold the SQL database so that the machine learning programs would be able to read the data. 
