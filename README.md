@@ -75,6 +75,8 @@ The criteria for the success of the machine learning models is based on whether 
 ## Tableau
 This Tableau link answers the questions number 2,3 and 5 from the project description. Follow this link for the Tableau dashboard and story (https://public.tableau.com/app/profile/clarajean.lugenge/vizzes)
 
+The link https://public.tableau.com/app/profile/carson.moore6176/viz/Project4Group3-CMTableau/BestFeatures?publish=yes answers questions 1, 4 and 6, and is used in our presentation.
+
 ## Conclusion
 Based on historical data, we can identify that the leading indicators that reliably predict changes in housing prices to be the average income and the average population quantity of a city in the state of Texas. Analyzing the data and using linear regression models and plotting well informed graphs, we can identity a positive correlation between the average income in Texas to the average housing prices and the average population in each city to the average housing pricing in Texas, in that as the income or population quantity increases/decreases, the housing prices also increase/decreases. Furthermore, it can be concluded that the housing market is stable seeing that the historical trend doesnt involve any major highs and lows in the market (This is based on historical data found which only relates to income and population in relation to housing prices and does not accurately represent all the factors that may influence in the housing market).
 
