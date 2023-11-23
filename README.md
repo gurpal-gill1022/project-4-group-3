@@ -27,6 +27,7 @@ The steps that were used for this part were:
 3. Dropping the Null values from the data sheets
 4. Mergeing many columns into one easy-to-read column
 5. Taking the necessary columns to make one final CVS output.
+
    These steps were done with the TX_lat_long.CSV, location.CSV, price.CSV,room.CSV making the data easier to make a SQL database to read the data from. 
 ## SQL Database
 
