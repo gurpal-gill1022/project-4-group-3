@@ -50,7 +50,12 @@ This was a useful tool to use considering the person running the program does no
 With AWS the machine learning programs can use the sqlalchemy to manipulate the databases making them easier to read and use in machine learning.
 
 ## Machine Learning
-
+| Types of Machine Learning  | Successful or Not|
+| -------------------------- | ------------- |
+| Linear Regression          | Yes           |
+| Logistic Regression        | No            |
+| Random Forest              | No            |
+| Neural Network             | No            |
 
 ## Tableau
 
