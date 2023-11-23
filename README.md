@@ -44,6 +44,7 @@ The steps that were used for this part were:
 
 ## SQL Database
 After the datasets were cleaned, we leveraged SQL database to store the datasets. This was done by writing a query tool to create tables (room, price, and locations), and importing each dataset to its corresponding table. The diagram below shows the relationship between each table.
+
 ![image](https://github.com/gurpal-gill1022/project-4-group-3/assets/130923014/2159701e-b713-4604-8306-ee008e6ee7ba)
 
 ## AWS
