@@ -67,7 +67,22 @@ AWS database:  database-project-4.coiydcjowrsi.us-west-2.rds.amazonaws.com
 ## Conclusion
 
 ## Dependencies
+ETL
+
+Machine Learning:
+1. sklearn
+2. pandas
+3. tensorflow
+4. sqlalchemy
 
 ## Programs/Languages
-
+1. Python
+2. Jupyter Notebook
+3. pgAdmin 4 (SQL)
+4. Tableau
+5. Quick DBD
+6. AWS
+7. Microsoft Word
+8. Microsoft Excel
+9. Microsoft PowerPoint
 
