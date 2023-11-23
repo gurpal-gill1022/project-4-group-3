@@ -18,7 +18,9 @@ Objectives:
 ## Data and Code Sources
 
 ## Data Import and cleaning
-This section aims to take the many data sources, clean and filter the data to make it easier to read and code around. As well, as filtering the data focusing on the relevant data that the group can use.
+This section aims to take the many data sources, and clean and filter the data to make it easier to read and code around. 
+As well, as filtering the data focusing on the relevant data that the group can use.
+
 The steps that were used for this part were:
 1. Dropping unnecessary columns through Juptyer Notebook
 2. Filtering the data to only focus on the state of Texas
