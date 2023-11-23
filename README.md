@@ -50,13 +50,7 @@ This was a useful tool to use considering the person running the program does no
 With AWS the machine learning programs can use the sqlalchemy to manipulate the databases making them easier to read and use in machine learning.
 
 ## Machine Learning
-Linear Regression
 
-Logical Regression
-
-Random Forrest
-
-Neural Network
 
 ## Tableau
 
