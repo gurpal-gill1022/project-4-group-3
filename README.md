@@ -17,16 +17,16 @@ Objectives:
 
 ## Data and Code Sources
 Sources Used for Obtaining Datasets:
-•	https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2020-zip-code-data-soi
-•	https://www.nber.org/research/data/individual-income-tax-statistics-zip-code-data-soi
-•	https://www.kaggle.com/datasets/blitzr/movehub-city-rankings?select=movehubcostofliving.csv
-•	https://simplemaps.com/data/us-zips
-•	https://www.zillow.com/research/data/
-• https://www.climate.gov/maps-data/dataset/past-weather-zip-code-data-table
+1. https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2020-zip-code-data-soi
+2. https://www.nber.org/research/data/individual-income-tax-statistics-zip-code-data-soi
+3. https://www.kaggle.com/datasets/blitzr/movehub-city-rankings?select=movehubcostofliving.csv
+4. https://simplemaps.com/data/us-zips
+5. https://www.zillow.com/research/data/
+6. https://www.climate.gov/maps-data/dataset/past-weather-zip-code-data-table
 
 Sources Used as References in our codes:
-• Class material extensively referenced, but not cut and pasted
-• Machine Learning Folder - https://www.statology.org/valueerror-unknown-label-type-continuous/ - used in Random Forest Optimized Notebook
+1. Class material extensively referenced, but not cut and pasted
+2. Machine Learning Folder - https://www.statology.org/valueerror-unknown-label-type-continuous/ - used in Random Forest Optimized Notebook
  
 
 
