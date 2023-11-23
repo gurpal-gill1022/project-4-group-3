@@ -13,12 +13,19 @@ Objectives:
 5. Deploy AWS to grant everyone access to the database
 6. Apply machine learning techniques such as linear regression and random forest.
 7. Utilize Tableau to create an informative visual dashboard.
-8. Develop our presentation using Microsoft Powerpoint.
+8. Develop our presentation using Microsoft PowerPoint.
 
 ## Data and Code Sources
 
 ## Data Import and cleaning
-
+This section aims to take the many data sources, clean and filter the data to make it easier to read and code around. As well, as filtering the data focusing on the relevant data that the group can use.
+The steps that were used for this part were:
+1. Dropping unnecessary columns through Juptyer Notebook
+2. Filtering the data to only focus on the state of Texas
+3. Dropping the Null values from the data sheets
+4. Mergeing many columns into one easy-to-read column
+5. Taking the necessary columns to make one final CVS output.
+   These steps were done with the TX_lat_long.CSV, location.CSV, price.CSV,room.CSV making the data easier to make a SQL database to read the data from. 
 ## SQL Database
 
 ## AWS
