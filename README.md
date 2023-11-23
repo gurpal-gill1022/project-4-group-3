@@ -13,9 +13,22 @@ Objectives:
 5. Deploy AWS to grant everyone access to the database
 6. Apply machine learning techniques such as linear regression and random forest.
 7. Utilize Tableau to create an informative visual dashboard.
-8. Develop our presentation using Microsoft Powerpoint.
+8. Develop our presentation using Microsoft PowerPoint.
 
 ## Data and Code Sources
+Sources Used for Obtaining Datasets:
+•	https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2020-zip-code-data-soi
+•	https://www.nber.org/research/data/individual-income-tax-statistics-zip-code-data-soi
+•	https://www.kaggle.com/datasets/blitzr/movehub-city-rankings?select=movehubcostofliving.csv
+•	https://simplemaps.com/data/us-zips
+•	https://www.zillow.com/research/data/
+• https://www.climate.gov/maps-data/dataset/past-weather-zip-code-data-table
+
+Sources Used as References in our codes:
+• Class material extensively referenced, but not cut and pasted
+• Machine Learning Folder - https://www.statology.org/valueerror-unknown-label-type-continuous/ - used in Random Forest Optimized Notebook
+ 
+
 
 ## Data Import and cleaning
 
