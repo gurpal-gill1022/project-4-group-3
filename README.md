@@ -32,6 +32,9 @@ The steps that were used for this part were:
 ## SQL Database
 
 ## AWS
+The purpose of the AWS (Amazon Web Services) section was a place to hold the SQL database so that the machine learning programs would be able to read the data. 
+This was a useful tool to use considering the person running the program does not need to use a local host SQL database but one that can be called upon from a URL link.  
+With AWS the machine learning programs can use the sqlalchemy to manipulate the databases making them easier to read and use in machine learning.
 
 ## Machine Learning
 
