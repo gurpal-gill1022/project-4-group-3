@@ -55,6 +55,8 @@ With AWS the machine learning programs can use the sqlalchemy to manipulate the 
 AWS database:  database-project-4.coiydcjowrsi.us-west-2.rds.amazonaws.com
 
 ## Machine Learning
+The criteria for the success of the machine learning models is based on whether the model can produce a 75% classification accuracy and an 80 R-squared
+
 | Types of Machine Learning  | Successful or Not|
 | -------------------------- | ------------- |
 | Linear Regression          | Yes           |
