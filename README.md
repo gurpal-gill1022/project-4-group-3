@@ -15,6 +15,14 @@ Objectives:
 7. Utilize Tableau to create an informative visual dashboard.
 8. Develop our presentation using Microsoft PowerPoint.
 
+Research Questions to Analyze:
+1. Based on historical data, can we identify leading indicators that reliably predict changes in housing prices?
+2. Is there a correlation between the average income in Texas to the average rent?
+3. How does the population in each city correlate with average housing pricing in Texas?
+4. What are the historical trends or patterns in housing prices in Texas from 2015 to 2023?
+5. How stable is the housing market and are there indicators of potential instability?
+6. Which city in Texas does the best in the features found from Machine Learning?
+
 ## Data and Code Sources
 Sources Used for Obtaining Datasets:
 1. https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2020-zip-code-data-soi
