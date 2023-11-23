@@ -78,7 +78,10 @@ This Tableau link answers the questions number 2,3 and 5 from the project descri
 ## Conclusion
 
 ## Dependencies
-ETL
+ETL:
+1. pandas
+2. numpy
+3. matplotlib.pyplot
 
 Machine Learning:
 1. sklearn
