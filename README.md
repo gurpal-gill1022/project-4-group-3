@@ -28,7 +28,6 @@ Sources Used as References in our codes:
 1. Class material extensively referenced, but not cut and pasted
 2. Machine Learning Folder - https://www.statology.org/valueerror-unknown-label-type-continuous/ - used in Random Forest Optimized Notebook
  
-
 ## Data Import and cleaning
 This section aims to take the many data sources, and clean and filter the data to make it easier to read and code around. 
 As well, as filtering the data focusing on the relevant data that the group can use.
@@ -52,6 +51,8 @@ The purpose of the AWS (Amazon Web Services) section was a place to hold the SQL
 This was a useful tool to use considering the person running the program does not need to use a local host SQL database but one that can be called upon from a URL link.  
 With AWS the machine learning programs can use the sqlalchemy to manipulate the databases making them easier to read and use in machine learning.
 
+AWS database:  database-project-4.coiydcjowrsi.us-west-2.rds.amazonaws.com
+
 ## Machine Learning
 | Types of Machine Learning  | Successful or Not|
 | -------------------------- | ------------- |
@@ -68,4 +69,4 @@ With AWS the machine learning programs can use the sqlalchemy to manipulate the 
 
 ## Programs/Languages
 
-AWS database:  database-project-4.coiydcjowrsi.us-west-2.rds.amazonaws.com
+
