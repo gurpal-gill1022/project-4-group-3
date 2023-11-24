@@ -73,7 +73,7 @@ The criteria for the success of the machine learning models is based on whether 
 | Neural Network             | No            |
 
 ## Tableau
-This Tableau link answers the questions number 2,3 and 5 from the project description. Follow this link for the Tableau dashboard and story (https://public.tableau.com/app/profile/clarajean.lugenge/vizzes)
+This Tableau link answers the questions number 2,3 and 5 from the project description. Follow this link for the Tableau dashboard and story https://public.tableau.com/app/profile/clarajean.lugenge/vizzes and https://public.tableau.com/app/profile/bilal.ismail/viz/projecct_4_dashboard/Dashboard2?publish=yes 
 
 The link https://public.tableau.com/app/profile/carson.moore6176/viz/Project4Group3-CMTableau/BestFeatures?publish=yes answers questions 1, 4 and 6, and is used in our presentation.
 
